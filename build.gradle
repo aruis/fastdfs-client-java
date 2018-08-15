@@ -1,0 +1,8 @@
+apply plugin: 'java'
+
+group 'org.csource'
+version '1.27-SNAPSHOT'
+
+dependencies {
+
+}
